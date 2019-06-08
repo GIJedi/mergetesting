@@ -2,7 +2,7 @@
 	* This is just a random file with a random class
 	* Just with a random class and other random stuff
 	* 
-	*/
+	*/veafeagreagreagreagrensgjkergjirebuorebuodvhiobhiodfipdsfhjdsfhiofewohifewhiosdvae
 
 
 
@@ -28,8 +28,7 @@ class randomClass {
 	private:
 	int someVariable;
 	double someOtherOne;
-}
-/**	* CodeOne.hpp
+}greagresgrgres
 	* This is just a random file with a random class
 	* Just with a random class and other random stuff
 	* 
@@ -182,4 +181,4 @@ class randomClass {
 	private:
 	int someVariable;
 	double someOtherOne;
-}
+}h
